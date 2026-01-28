@@ -11,4 +11,4 @@ I am currently a Ph.D. candidate in Business Administration (Finance) at the Sao
 
 My primary field is Sustainable Finance.
 
-You can email me anytime at: pavan.pedro@fgv.edu.br 
+You can email me at: pavan.pedro@fgv.edu.br 
