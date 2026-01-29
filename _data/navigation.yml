@@ -14,6 +14,9 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=SXfLTbcAAAAJ&hl=pt-BR
 
+  - title: "Conferences"
+    url: /conferences/
+
   - title: "Achievements"
     url: /achievements/
 
