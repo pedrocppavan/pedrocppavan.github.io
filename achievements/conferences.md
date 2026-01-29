@@ -5,7 +5,7 @@ permalink: /conferences/
 author_profile: true
 ---
 
-## 47th EIBA Annual Conference (Madrid, 2021)
+### 47th EIBA Annual Conference (Madrid, 2021)
 
 I had the honor of presenting our research at the 47th European International Business Academy (EIBA) Annual Conference, organized by Universidad Complutense de Madrid.
 
