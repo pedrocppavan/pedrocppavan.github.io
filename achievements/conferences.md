@@ -9,7 +9,9 @@ author_profile: true
 
 **Research Title:** "Evidence of 'Locust Foreign Capital' in Brazil: Explanation Through Foreign Institutional Ownership and Firm Value"
 
-**Authors:** Pedro Cesar Pestana Pavan, Daniel Ferreira Caixe, Natalia Diniz-Maganini, and Hsia Hua Sheng.
+**Authors:** Cesar Pestana Pavan, Pedro. Ferreira Caixe, Daniel. Diniz-Maganini, Natalia. Hua Sheng, Hsia.
+
+
 
 ### Presentation Highlights
 
