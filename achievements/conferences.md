@@ -5,23 +5,23 @@ permalink: /conferences/
 author_profile: true
 ---
 
-### 47th EIBA Annual Conference (Madrid, 2021)
-
-I had the honor of presenting our research at the 47th European International Business Academy (EIBA) Annual Conference, organized by Universidad Complutense de Madrid.
+### 47th European International Business Academy (EIBA) Annual Conference (Madrid, 2021)
 
 **Research Title:** "Evidence of 'Locust Foreign Capital' in Brazil: Explanation Through Foreign Institutional Ownership and Firm Value"
 
 **Authors:** Pedro Cesar Pestana Pavan, Daniel Ferreira Caixe, Natalia Diniz-Maganini, and Hsia Hua Sheng.
 
+---
+
 ### Presentation Highlights
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="/images/my_presentation.png" alt="Presentation at EIBA" style="width: 40%; border-radius: 5px;">
-  <img src="/images/Group_panel.jpg" alt="EIBA Group Panel" style="width: 40%; border-radius: 5px;">
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="/images/my_presentation.png" alt="Presentation at EIBA" style="width: 48%; border-radius: 5px;">
+  <img src="/images/Group_panel.jpg" alt="EIBA Group Panel" style="width: 48%; border-radius: 5px;">
 </div>
 
 <p align="center">
-  <i>Presenting our evidence on foreign capital at Universidad Complutense de Madrid.</i>
+  <i>Presenting our evidence on foreign capital at Universidad Complutense de Madrid.</i>
 </p>
 
 ---
