@@ -30,7 +30,7 @@ author:
   location         : "Sao Paulo, Brazil"
   employer         : "Fundação Getulio Vargas"               
   uri              : # URL
-  email            : "pavan.pedro@fgv.edu.br" 
+  email            : 
 
   # Academic websites
   academia         : # URL
@@ -42,7 +42,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   researchgate     : # URL
-  scopus           : "http://lattes.cnpq.br/3116107230669494"   
+  scopus           : # URL
   lattes           : "http://lattes.cnpq.br/3116107230669494"
  
 

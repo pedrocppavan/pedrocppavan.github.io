@@ -74,6 +74,10 @@
       {% if author.zotero %}
         <li><a href="{{ author.zotero }}"><i class="ai ai-zotero ai-fw icon-pad-right"></i>Zotero</a></li>
       {% endif %}
+      {% if author.lattes %}
+        <li><a href="{{ author.lattes }}"><img src="{{ '/images/lattes.png' | relative_url }}" class="ai ai-fw icon-pad-right" style="width: 1em; height: 1em; filter: grayscale(100%);">Lattes</a></li>
+      {% endif %}
+      
 
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}
