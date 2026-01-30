@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: #"Pedro Cesar Pestana Pavan"
+title: "Pedro Cesar Pestana Pavan"
 layout: archive
 author_profile: true
 redirect_from: 
